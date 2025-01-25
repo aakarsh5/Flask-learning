@@ -1,0 +1,12 @@
+# git init
+# git add .
+# git commit -m "{commit_message}"
+# git push origin {branch_name}
+
+# python -m venv env
+# env\Scripts\activate
+# pip freese > requirements.txt
+# pip install -r requirements.txt
+
+#env
+venv
