@@ -36,19 +36,19 @@ Make sure you have the following installed:
 ### 1. Clone the Repository
 
 ### 2. Create a Virtual Environment
-``` python -m venv venv ```
-```source venv/bin/activate    # On macOS/Linux```
-```venv\Scripts\activate       # On Windows```
+- ``` python -m venv venv ```
+- ```source venv/bin/activate    # On macOS/Linux```
+- ```venv\Scripts\activate       # On Windows```
 
 ### 3. Install Dependencies
-```pip install -r requirements.txt```
+- ```pip install -r requirements.txt```
 
 ### 4. Set Up the Database
-```from server import db```
-``` db.create_all()```
+- ```from server import db```
+- ``` db.create_all()```
 
 ### 5. Run the Flask Application Locally
-```python server.py```
+- ```python server.py```
 
 
 
